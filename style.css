@@ -549,6 +549,9 @@ h5 {
     margin-right: 4%;
 }
 
+.result-focused .text p {
+    margin-top: 3%;
+
 .result-focused img {
     width: 50%;
     width: 500px;
@@ -560,6 +563,7 @@ h5 {
 
 .result-focused h1 {
     font-size: 3rem;
+    line-height: normal;
     /* margin-right: 10%; */
 }
 
